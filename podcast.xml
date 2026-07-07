@@ -12,5 +12,25 @@
 <itunes:owner><itunes:name>Eric R. Wagner, MD, MSc</itunes:name><itunes:email>eric.erwagner@gmail.com</itunes:email></itunes:owner>
 <itunes:summary>A weekly two-host walk through Eric Wagner's upper-extremity research-idea slate — for each idea, a brief summary of the current literature, why the idea is novel, and how it would contribute to the field. Generated from the Wags Postdoc agent's weekly report. Companion to the Tutor literature podcast.</itunes:summary>
 <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
+<item>
+<title>Research Ideas — 2026-07-06</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Mon, 06 Jul 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-07-06 Research Ideas.m4a</guid>
+<itunes:duration>16:03</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/wags-postdoc-podcast-6b8175/cover.png"/>
+<description>Wags Postdoc — Research Ideas — 2026-07-06
+Sixteen upper-extremity research ideas from this week's Wags Postdoc slate. For each: a brief summary of the current literature, why it is novel, and how it would contribute. Companion to the Tutor literature podcast; same two hosts.
+Top pick: External validation of the postoperative-day-7 D-dimer cutoff for silent DVT after arthroscopic rotator cuff repair, extended to tendon-transfer patients.
+Clinical — Shoulder Arthroplasty: (1) Validating the new HUMBL humeral bone-loss classification at a second US center. (2) Perioperative GLP-1 agonist use and complications after total/reverse shoulder replacement.
+Clinical — Rotator Cuff: (3) Lower trapezius transfer vs. superior capsular reconstruction, using newly defined MCID/PASS thresholds. (4) Validating the POD-7 D-dimer DVT-screening cutoff after arthroscopic cuff repair (top pick).
+Clinical — Shoulder Arthroscopy / nTOS: (5) Arthroscopic pectoralis minor release vs. endoscopic brachial plexus release for neurogenic thoracic outlet syndrome. (6) Remplissage failure thresholds stratified by glenoid bone-loss severity.
+Clinical — Wrist Arthroscopy: (7) Arthroscopic scaphoid nonunion fixation — union by location and cartilage-cap biology (novelty check needs re-run). (8) Thumb CMC arthritis in young patients — arthroscopy vs. fusion vs. LRTI (novelty check needs re-run).
+Systematic Reviews: (9) Remplissage outcomes stratified by bone-loss severity. (10) TFCC repair technique comparison (all-inside vs. outside-in vs. foveal reattachment).
+Database: (11) PearlDiver GLP-1 agonists and 90-day complications after shoulder arthroplasty. (12) NSQIP wrist/elbow arthroscopy complications not captured in standard fields (nerve/soft-tissue injury), with a local chart-review supplement.
+Incidence/Epidemiology: (13) National incidence and trends in elbow arthroscopy, 2010–2024 (novelty unconfirmed). (14) National incidence of neurogenic TOS surgery (novelty needs cleaner search).
+Honesty note: four ideas (both wrist clinical ideas and both incidence studies) rest on novelty searches that returned thin results on narrow queries and need a cleaner re-run before committing resources. Full write-up with evidence tables and every query is in the Research Ideas Word document.</description>
+<enclosure url="https://ericerwagner-max.github.io/wags-postdoc-podcast-6b8175/2026-07-06%20Research%20Ideas.m4a" length="4018619" type="audio/x-m4a"/>
+</item>
 </channel>
 </rss>
