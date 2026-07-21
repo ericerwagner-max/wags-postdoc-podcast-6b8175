@@ -13,6 +13,42 @@
 <itunes:summary>A weekly two-host walk through Eric Wagner's upper-extremity research-idea slate — for each idea, a brief summary of the current literature, why the idea is novel, and how it would contribute to the field. Generated from the Wags Postdoc agent's weekly report. Companion to the Tutor literature podcast.</itunes:summary>
 <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
 <item>
+<title>Research Ideas — 2026-07-20</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Mon, 20 Jul 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-07-20 Research Ideas.m4a</guid>
+<itunes:duration>13:11</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/wags-postdoc-podcast-6b8175/cover.png"/>
+<description>Wags Postdoc — Research Ideas — 2026-07-20 (Show Notes)
+Companion to Tutor. Each week the Postdoc turns the new upper-extremity literature into concrete, gap-checked study ideas. These are starting points, not protocols. Full write-up with every PubMed query + hit count: 50 System/Agents/Wags Postdoc Reports/2026-07-20 Research Ideas.md.
+This week: 13 ideas — Clinical 7, Systematic Review 2, Database 2, Incidence 2. An imaging-heavy week: both systematic-review ideas are orphans surfaced by this week's radar refresh of the DDR/AI Imaging and Health Disparities programs (which completes the first full pass across all 8 programs).
+Top pick — Diagnostic accuracy of 4D CT for scapholunate/carpal instability (Systematic Review): 84 primary studies, zero systematic reviews — while MRI, MR-arthrography, and CBCT-arthrography each already have a diagnostic-accuracy review, 4D CT (the modality being promoted as the "new standard") has none. Low data risk, bridges DDR/AI Imaging + Wrist Arthroscopy.
+ Ideas
+Clinical
+1. Validate radiographic LSA/DSA vs CT ground truth in a US RSA registry (from Werthel 2026 CT-offset study).
+2. Inlay vs onlay glenoid — clinical loosening/survivorship test of this week's finite-element prediction (multi-institutional; inlay-volume caveat).
+3. Does preop GLP-1 use associate with less fatty infiltration/better healing after cuff repair? — human translation of the rat finding (muscle-quality endpoint, not the crowded retear endpoint).
+4. Remnant preservation + nanofracture bone-marrow stimulation in high-risk cuff repairs (replicate/extend Milano 2026).
+5. MCID/PASS thresholds for arthroscopic pectoralis minor release (the largest series, MGH n=273, reported none).
+6. Value of concomitant brachial plexus neurolysis with pec minor release (60% got it, outcomes pooled).
+7. Diagnostic concordance of DDR/4D-CT vs arthroscopic Geissler grade for scapholunate instability (clinical companion to the top pick).
+Systematic Reviews
+8. DDR for upper-extremity kinematics — validity &amp; reliability (36 primary, 0 SR).
+9. 4D CT diagnostic accuracy for scapholunate/carpal instability (TOP PICK) (84 primary, 0 SR).
+Database
+10. Disparities in access to perioperative GLP-1 agonists before upper-extremity surgery (studied in TKA/THA only; fuses GLP-1 + FOSSIL).
+11. Weight-stratified antibiotic prophylaxis and PJI after shoulder arthroplasty (from this week's synovial-fluid PK study).
+Incidence
+12. National trends in scapholunate ligament surgery, repair vs reconstruction vs salvage (2012–2024).
+13. National incidence/trends of shoulder PJI and two-stage revision (2010–2024).
+ Honesty flags (carried into the audio)
+- Wrist-arthroscopy Tutor track empty for a 4th straight week — the wrist idea leans on DDR/4D-CT literature.
+- No PubMed MCP this session; all counts from live NCBI E-utilities.
+- Ideas A1, A2, C2 carry explicit data-feasibility caveats (post-op CT availability; inlay volume; claims dose granularity).
+- No figure this week — search sets n</description>
+<enclosure url="https://ericerwagner-max.github.io/wags-postdoc-podcast-6b8175/2026-07-20%20Research%20Ideas.m4a" length="3305919" type="audio/x-m4a"/>
+</item>
+<item>
 <title>Research Ideas — 2026-07-14</title>
 <itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
 <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
