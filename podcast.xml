@@ -13,6 +13,34 @@
 <itunes:summary>A weekly two-host walk through Eric Wagner's upper-extremity research-idea slate — for each idea, a brief summary of the current literature, why the idea is novel, and how it would contribute to the field. Generated from the Wags Postdoc agent's weekly report. Companion to the Tutor literature podcast.</itunes:summary>
 <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
 <item>
+<title>Research Ideas — 2026-08-03</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Mon, 03 Aug 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-08-03 Research Ideas.m4a</guid>
+<itunes:duration>19:43</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/wags-postdoc-podcast-6b8175/cover.png"/>
+<description>Wags Postdoc — Research Ideas — 2026-08-03 (Show Notes)
+Companion to Tutor. Each week the Postdoc turns the new upper-extremity literature into concrete, gap-checked study ideas. These are starting points, not protocols. Full write-up with every PubMed query + hit count: 50 System/Agents/Wags Postdoc Reports/2026-08-03 Research Ideas.md.
+This week: 13 ideas — Clinical 6, Systematic Review 3, Database 2, Incidence 2. Two weeks of literature in one round (no slate ran 2026-07-27), and the wrist-arthroscopy feed broke a six-week dry spell with three J Wrist Surg papers — one of which produced the top pick.
+Top pick — The volar component of scapholunate ligament injury (Systematic Review): ~25 primary reports, zero systematic reviews ever. The adjacent syntheses cover dorsal capsulodesis (2025) and partial SL injuries (2024); neither touches the volar side. Arthroscopy is the test that identifies the volar tear, which puts the diagnostic step inside the wrist-arthroscopy program. No data-feasibility risk — it's a synthesis.
+Runner-up — Dual- vs. single-plate fixation of proximal humerus fractures (Systematic Review + meta-analysis): 53 primary reports, 0 systematic reviews/meta-analyses; the 8 existing reviews are all narrative. This week's 141-patient cohort found 22.7% vs. 5.4% reoperation favouring dual plating — a large effect from one non-randomized centre, which is what meta-analysis is for.
+ Ideas
+Clinical
+1. Does scapular-predominant motion on dynamic digital radiography precede acromial/scapular-spine stress fracture after reverse arthroplasty? (Eric's own SHR paper + this month's SPECT/CT stress paper — two halves of one hypothesis; 1-hit, unrelated, novelty check.)
+2. Diagnostic yield and management impact of arthroscopy in the equivocal painful shoulder replacement (only modern series is n=29).
+3. Bioinductive collagen implant in high-risk / transfer-candidate cuff repairs — the population this week's 112-patient study skipped (its benefit concentrated in small-medium, low-Goutallier tears).
+4. Preoperative suprascapular neuropathy as a predictor of failure after tendon transfer (rat model shows entrapment blocks healing; existing meta-analyses tested release-as-treatment, not neuropathy-as-predictor).
+5. Remplissage fixation position vs. external-rotation loss — clinical test of this week's in-silico dose-response (9 hits, all biomechanical).
+6. Prevalence and treatment of the volar scapholunate component in a consecutive arthroscopic series (clinical companion to the top pick).
+Systematic Reviews
+7. Volar scapholunate component — diagnosis and volar-based repair outcomes (TOP PICK) — 25 primary, 0 SR ever.
+8. Dual- vs. single-plate proximal humerus fixation — 53 primary, 0 SR/MA.
+9. Diagnostic arthroscopy for the painful shoulder arthroplasty — yield and management impact (partial gap: existing SRs are infection-only and lysis-only).
+Database (designed on paper — no database was queried)
+10. GLP-1 receptor agonists and cubital tunnel sy</description>
+<enclosure url="https://ericerwagner-max.github.io/wags-postdoc-podcast-6b8175/2026-08-03%20Research%20Ideas.m4a" length="4935378" type="audio/x-m4a"/>
+</item>
+<item>
 <title>Research Ideas — 2026-07-20</title>
 <itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
 <pubDate>Mon, 20 Jul 2026 08:00:00 +0000</pubDate>
