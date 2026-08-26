@@ -13,6 +13,28 @@
 <itunes:summary>A weekly two-host walk through Eric Wagner's upper-extremity research-idea slate — for each idea, a brief summary of the current literature, why the idea is novel, and how it would contribute to the field. Generated from the Wags Postdoc agent's weekly report. Companion to the Tutor literature podcast.</itunes:summary>
 <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
 <item>
+<title>Research Ideas — 2026-08-24</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Mon, 24 Aug 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-08-24 Research Ideas.m4a</guid>
+<itunes:duration>22:20</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/wags-postdoc-podcast-6b8175/cover.png"/>
+<description>Research Ideas — 2026-08-24
+The companion show to Tutor: each week the Postdoc turns the new literature into concrete, gap-justified study ideas. Thirteen ideas this week — 6 clinical, 3 systematic reviews, 2 database, 2 national incidence — every one with a live PubMed novelty check and its hit count.
+⭐ Top pick — who actually receives enabling technology in shoulder arthroplasty. Navigated shoulder replacement grew from 654 to 9,777 cases a year between 2017 and 2023 in one manufacturer's series; the Australian registry has now tested navigation against revision in 5,236 arthroplasties and found no difference; 74% of the American public believes robotics improves implant positioning; and a propensity-matched analysis with 84,767 patients per arm shows socially disadvantaged patients undergo shoulder arthroplasty at 3.14% versus 5.78% — access, not durability. Nobody has asked who is on the receiving end of the technology. 42 records screened on utilization, 33 on disparities: no national utilization study, no equity analysis of any kind.
+⭐ Best systematic review — automated measurement of glenoid bone loss. At least sixteen primary studies since 2017 developing or validating automated and AI-based measurement of glenoid bone loss and instability lesions — and a tight systematic-review filter returns zero hits, ever. AI in rotator cuff imaging already has 7 reviews; AI in wrist imaging has 31. The clinical stake is that a few percentage points of measured bone loss moves a patient from Bankart repair, to Bankart with remplissage, to Latarjet — so measurement error converts directly into a different operation.
+Highest-yield clinical idea — turning the external-rotation lag threshold into a transfer-selection rule. A new cohort derived cut-offs (active external rotation 25° in adduction, 40° in abduction, abduction lag &lt;25°; AUC 0.74–0.76) separating who achieves functional external rotation with reverse arthroplasty alone. Those thresholds identify exactly the patient offered a tendon transfer — and have never been validated, nor used to stratify a reverse-alone versus reverse-plus-transfer comparison.
+ The full slate
+Clinical
+1. Does the new hand-behind-back classification (κ 0.945 vs 0.599 for vertebral level) correspond to a measurable motion strategy? A dynamic-radiography anchor.
+2. Reverse arthroplasty for chronic locked anterior dislocation — motion restored, patient-reported function not (36.2 vs 56.6), on n=17. ⚠️ Rare: multicentre or not at all.
+3. ⭐ The external-rotation threshold as a transfer-selection rule.
+4. Does scapular mechanics actually mediate recovery after cuff repair? A randomised trial just improved the mechanics without moving any patient-reported score.
+5. Is the glenoid track you measure the one the patient has? 4D CT put the in vivo track at 74.6% of glenoid width against the ~83% static convention. ⚠️ Needs 4D CT — dynamic radiography cannot do this.
+6. "Debride and wait" for chronic dynamic scaphoid instability — 54</description>
+<enclosure url="https://ericerwagner-max.github.io/wags-postdoc-podcast-6b8175/2026-08-24%20Research%20Ideas.m4a" length="5591446" type="audio/x-m4a"/>
+</item>
+<item>
 <title>Research Ideas — 2026-08-17</title>
 <itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
 <pubDate>Mon, 17 Aug 2026 08:00:00 +0000</pubDate>
