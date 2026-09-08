@@ -13,6 +13,28 @@
 <itunes:summary>A weekly two-host walk through Eric Wagner's upper-extremity research-idea slate — for each idea, a brief summary of the current literature, why the idea is novel, and how it would contribute to the field. Generated from the Wags Postdoc agent's weekly report. Companion to the Tutor literature podcast.</itunes:summary>
 <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
 <item>
+<title>Research Ideas — 2026-09-08</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-09-08 Research Ideas.m4a</guid>
+<itunes:duration>31:57</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/wags-postdoc-podcast-6b8175/cover.png"/>
+<description>Wags Postdoc — Research Ideas, 2026-09-08 (Show Notes)
+15 ideas. Top pick: a systematic review of repair tension in rotator cuff repair — 59 primary reports, zero systematic reviews ever.
+⚠️ This episode covers two weeks. The scheduled 2026-08-31 run did not fire — no report, no episode — so the literature window here is doubled and that week's slate is permanently lost. This round also ran a day late. Flagged in the report for Swagner Chief.
+Every gap below was proven with a live PubMed query and hit count, recorded in full in the report. Ideas are starting points, not protocols; the honesty flags stated in the episode are repeated here.
+---
+ Clinical — Shoulder Arthroplasty
+1. Pectoralis major transfer vs subscapularis repair at the time of reverse shoulder arthroplasty. The only direct comparison in existence (n=27 vs 42, one centre, one implant) found the transfer better on every internal-rotation endpoint, driven by 31% subscapularis retear against zero transfer failures. 16-hit check; the 8-review systematic-review shelf is entirely about repair. ⚠️ Verify the practice does enough transfers at the index operation. 2 / 2 / 3
+2. External validation of preoperative hemoglobin strata before shoulder arthroplasty. Sex-specific thresholds derived three weeks ago by a method that is notoriously sample-dependent, with stepwise increases in complications, wound problems and 2-year infection. 16-hit check: no external validation exists. Cheapest idea on the slate — every variable already captured. ⚠️ Infection endpoint will be event-sparse; make transfusion primary. 2 / 3 / 2
+ Clinical — Rotator Cuff
+3. What is the repair tension in a human cuff repair, and does it predict healing? A rat model found a bell-shaped dose–response with a sweet zone at 0.10–0.12 N/mm² — under-tensioning heals nearly as badly as over-tensioning. 47-hit check: the clinical literature uses "low tension" as a categorical label and nobody measures it in a patient. ⚠️ Needs an intraoperative tensiometer that is not standard OR equipment; ordinal surgeon-graded fallback offered. 3 / 1 / 3
+4. Randomized trial of tranexamic acid with opioid consumption as the primary endpoint after arthroscopic cuff repair. Three observational reports agree (including a 7,645-per-group matched cohort showing fewer opioid prescriptions at 30 days and 1 year with no increase in pulmonary embolism or infection) and a published JSES letter exchange disputes it. Randomized check → 2 hits, neither an RCT with an opioid primary endpoint; every existing study counts prescriptions, not consumption. ⚠️ The hypothesis is not novel — the randomization and measured-consumption endpoint are. Not an SR opportunity: that shelf holds 16 reviews. 3 / 3 / 2
+ Clinical — Shoulder Arthroscopy, Scapula, Instability
+5. Does fusion grade predict function after scapulothoracic arthrodesis — and does the preoperative stabilization test predict anything? Both halves are now in print one cycle apart: a level-specific CT fusio</description>
+<enclosure url="https://ericerwagner-max.github.io/wags-postdoc-podcast-6b8175/2026-09-08%20Research%20Ideas.m4a" length="7996490" type="audio/x-m4a"/>
+</item>
+<item>
 <title>Research Ideas — 2026-08-24</title>
 <itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
 <pubDate>Mon, 24 Aug 2026 08:00:00 +0000</pubDate>
