@@ -13,6 +13,27 @@
 <itunes:summary>A weekly two-host walk through Eric Wagner's upper-extremity research-idea slate — for each idea, a brief summary of the current literature, why the idea is novel, and how it would contribute to the field. Generated from the Wags Postdoc agent's weekly report. Companion to the Tutor literature podcast.</itunes:summary>
 <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
 <item>
+<title>Research Ideas — 2026-09-14</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Mon, 14 Sep 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-09-14 Research Ideas.m4a</guid>
+<itunes:duration>21:43</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/wags-postdoc-podcast-6b8175/cover.png"/>
+<description>Wags Postdoc — Research Ideas, 2026-09-14 (Show Notes)
+10 ideas. Top pick: a systematic review of the arthroscopic tests used to diagnose foveal TFCC tears — 9 primary reports, and the systematic-review search returns 5 hits, every one of them in the knee, ankle or elbow.
+The slate is deliberately smaller than last week's 15 so the episode returns to its 15–20 minute target. Every gap below was proven with a live PubMed query and hit count, recorded in full in the report. Ideas are starting points, not protocols; the honesty flags stated in the episode are repeated here.
+---
+ Clinical — Shoulder Arthroplasty
+1. Does the preoperative plan predict the painful anterior shoulder after reverse arthroplasty? Anterior/coracoid pain now has a denominator — 1.0% prevalence, onset a mean 10 months out, and 49% resolving completely without surgery — with predictors that are almost all surgeon-chosen (subcoracoid distance, anterior glenosphere overhang, calcar distalization). A separate planning-CT model (9 vs 9) reached 79.0% cross-validated accuracy. 38-hit check: neither predictor set has ever been validated, and nobody has tested the plan against the pain. ⚠️ At 1% prevalence this is a validation, not a derivation — possibly two centres. 2 / 2 / 3
+ Clinical — Rotator Cuff / Tendon Transfer
+⭐ 2. What happens to the bone under the transfer? A propensity-matched series (26 pairs from 2,242) found latissimus transfer added to a reverse gave no extra external rotation and no better ASES — but 96% early proximal humeral erosion versus 4%. A 2021 series found osteolysis at the L'Episcopo insertion in 10 of 13 shoulders, 54% severe. The lower trapezius transfer — the one this group performs and publishes — has never had its insertion site examined, and none of the 24 systematic reviews of transfers with reverse arthroplasty reports insertion-site bone. ⚠️ Indication-confounded and non-randomised; pre-specify an erosion grading scale with two blinded readers. 3 / 3 / 3
+ Clinical — Shoulder Arthroscopy / Neurogenic TOS
+3. Does hypermobility change the result of arthroscopic pectoralis minor release? Hypermobility entered the TOS literature through vascular surgery: 28 hEDS patients out of ~1,400 encounters, 78.6% women, a mean of 4.6 prior upper-extremity operations each, and 81.3% improved after decompression — but with no non-hypermobile comparison group, no prospective Beighton scoring, and the arthroscopic operation absent. 8-hit check: no study anywhere reports hypermobility as an outcome predictor after any pectoralis minor release. ⚠️ Must be prospective; covary for prior surgery and comorbidity. 2 / 2 / 3
+ Clinical — Wrist Arthroscopy
+4. The first clinical series of suture-based DRUJ stabilization. The group's own cadaveric study showed a suture-tape/button reconstruction preserves rotation (174° → 175°) and restores translation to intact in neutral and supination — tighter than intact in pronation. 18-hit check: cadaveric studies, technique notes and one </description>
+<enclosure url="https://ericerwagner-max.github.io/wags-postdoc-podcast-6b8175/2026-09-14%20Research%20Ideas.m4a" length="5437406" type="audio/x-m4a"/>
+</item>
+<item>
 <title>Research Ideas — 2026-09-08</title>
 <itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
 <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
