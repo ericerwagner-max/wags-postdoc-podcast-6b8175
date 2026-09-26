@@ -13,6 +13,25 @@
 <itunes:summary>A weekly two-host walk through Eric Wagner's upper-extremity research-idea slate — for each idea, a brief summary of the current literature, why the idea is novel, and how it would contribute to the field. Generated from the Wags Postdoc agent's weekly report. Companion to the Tutor literature podcast.</itunes:summary>
 <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
 <item>
+<title>Research Ideas — 2026-09-21</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Mon, 21 Sep 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-09-21 Research Ideas.m4a</guid>
+<itunes:duration>22:38</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/wags-postdoc-podcast-6b8175/cover.png"/>
+<description>Wags Postdoc — Research Ideas, 2026-09-21 (Show Notes)
+12 ideas. Top pick: a systematic review of the surgical treatment of palmar midcarpal instability — 55 primary surgical reports, and the five "systematic reviews" in the space are about lunate fractures, a different joint's arthritis, arthroscopy portal anatomy, rheumatoid patients, and one explicitly narrative review that asks in its own title whether a consensus exists.
+This week had a genuine theme, because the two programs on rotation — imaging/artificial intelligence and health disparities — turned out to be asking the same question from opposite ends: what gets measured, and who gets measured. Every gap below was proven with a live PubMed query and hit count, recorded in full in the report. Ideas are starting points, not protocols; the honesty flags stated in the episode are repeated here.
+---
+ Clinical — Shoulder Arthroplasty
+1. Two questions at three months. A "yes" to is your shoulder comfortable at rest? at 3 months carried OR 15.7 for satisfaction at two years, and a "yes" to does it let you sleep comfortably? at 6 months OR 6.2 — with the asymmetry that matters: positive predictive value ≈80% at every time point, negative predictive value only 50.6%, so the uncomfortable patient at six months still has room to turn the corner. All of it derived in ream-and-run only. 2-hit novelty check: never validated in anatomic or reverse arthroplasty. ⚠️ Confirm the 3- and 6-month scores are actually captured; many databases skip the early visits. 2 / 3 / 3
+2. Can the shoulder scan tell you the torsion? A deep-learning model representing the elbow axis as a full 3D plane predicts humeral torsion from the proximal humerus alone at 5.35° mean error, R = 0.85 (vs R = 0.33–0.42 for landmark methods), holding up with osteophytes and with the field of view cut to 25% of humeral length, across 581 shoulders. Single institution, single protocol, no external validation — and nobody has asked whether swapping predicted for measured torsion changes the plan. ⚠️ Nice irony: validating it needs elbow-inclusive scans, which the model exists to stop ordering. If scarce, run the plan-agreement half alone — and don't call that an accuracy study. 2 / 2 / 3
+ Clinical — Rotator Cuff
+3. Volume, or a slice? Deep-learning whole-muscle supraspinatus volumetry: retear 14.3% vs 37.5% by whether volume rose or fell, healed 107.6% vs retorn 94.1%, and OR 0.49 per 10% volume gain. The field measures one or two slices — occupation ratio, Goutallier, tangent sign. 14-hit check: volume has never been tested head-to-head against them as competing predictors. ⚠️ Needs MRI covering the muscle to its medial origin; most protocols crop before that. SR3 is the designated fallback. 3 / 2 / 3
+⭐ 4. Is early pain a marker, or a lever? Low early pain (VAS ≤3 at one month, no analgesics) was achieved by 32.6% of 178 repairs, predicted by absent subscapularis involvement, no preoperative analgesic use, and lower baseline pain — and those</description>
+<enclosure url="https://ericerwagner-max.github.io/wags-postdoc-podcast-6b8175/2026-09-21%20Research%20Ideas.m4a" length="5673509" type="audio/x-m4a"/>
+</item>
+<item>
 <title>Research Ideas — 2026-09-14</title>
 <itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
 <pubDate>Mon, 14 Sep 2026 08:00:00 +0000</pubDate>
