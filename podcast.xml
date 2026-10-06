@@ -13,6 +13,39 @@
 <itunes:summary>A weekly two-host walk through Eric Wagner's upper-extremity research-idea slate — for each idea, a brief summary of the current literature, why the idea is novel, and how it would contribute to the field. Generated from the Wags Postdoc agent's weekly report. Companion to the Tutor literature podcast.</itunes:summary>
 <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
 <item>
+<title>Research Ideas — 2026-10-05</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Mon, 05 Oct 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-10-05 Research Ideas.m4a</guid>
+<itunes:duration>16:55</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/wags-postdoc-podcast-6b8175/cover.png"/>
+<description>Wags Postdoc — Research Ideas, 2026-10-05
+Eight gap-justified research ideas from this week's upper-extremity literature: four clinical studies, two systematic reviews, one database study and one national incidence study. Three further candidates were already taken, which we found during the novelty checks, and were dropped rather than pitched.
+The theme: history as an exposure. Does what happened before surgery (a failed earlier repair, an injury that started the symptoms, a nutritional reserve that ran low) change what the surgery does?
+Top pick: a systematic review of tendon transfer after a failed rotator cuff repair. A Korean group found no difference between primary and secondary transfer for the lower trapezius (83 vs 20) and, this week, the middle trapezius (39 vs 14). The latissimus literature reports a 27% clinical failure rate after transfer for revision tears. Seventy-six primary papers and fifteen transfer reviews exist, and none of the reviews treats prior surgery as the exposure (abstract-level check). Eric is senior author on a published latissimus-versus-SCR systematic review, so the team and methods already exist.
+Runner-up (clinical): traumatic versus atraumatic onset after arthroscopic pectoralis minor release. A 1,000-case and a 400-case rib-surgery series suggest post-traumatic thoracic outlet syndrome recurs more often, but neither has an atraumatic arm built in, and neither studies Eric's operation. The novelty search returns ten papers, none comparative.
+ The slate
+Clinical
+1. Geriatric Nutritional Risk Index and acromial stress fracture after reverse arthroplasty, an external validation
+2. Preoperative depression and comorbidity as predictors of two-year pain interference after lower trapezius transfer
+3. Traumatic versus atraumatic onset and the result of arthroscopic pectoralis minor release ⭐ runner-up
+4. The first stratified series of arthroscopic volar-dorsal lunotriquetral capsulorrhaphy
+Systematic reviews
+5. Tendon transfer after a failed rotator cuff repair: does prior surgery change the result? ⭐ top pick
+6. Tensioning variables in long head of the biceps tenodesis
+Database
+7. Where did the decompressions go? A US interrupted time series of substitution after the subacromial decompression trials (MarketScan + Medicare-age data)
+Incidence
+8. US incidence and operative-fixation rates of olecranon fractures in adults 75 and older, 2012–2024
+ Honesty flags carried into the audio
+- A1: serum albumin is not drawn on every elective reverse, so audit capture before scoping.
+- A2: the preoperative depression questionnaire may not have been collected, and the fallback is a coded-diagnosis exposure, reported as such.
+- A3: write the onset-classification rule before chart review, and adjust for compensation and litigation separately.
+- A4: expect tens of patients, not hundreds, and define "isolated" up front.
+- SR1: only a handful of studies report both arms, so pooling stays within studies. The existing reviews were checke</description>
+<enclosure url="https://ericerwagner-max.github.io/wags-postdoc-podcast-6b8175/2026-10-05%20Research%20Ideas.m4a" length="4236729" type="audio/x-m4a"/>
+</item>
+<item>
 <title>Research Ideas — 2026-09-28</title>
 <itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
 <pubDate>Mon, 28 Sep 2026 08:00:00 +0000</pubDate>
